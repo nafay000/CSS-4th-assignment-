@@ -1,5 +1,5 @@
 .product-card {
-    background-color: #e0e0e0; 
+    background-color: #f0bc2e; 
     width: 300px; 
     margin: 30px auto; 
     padding: 20px; 
@@ -10,10 +10,10 @@
 
     border-image: repeating-linear-gradient(
         45deg,
-        orange,
-        orange 10px,
-        gray 10px,
-        gray 20px
+        rgb(89, 212, 239),
+        rgb(89, 212, 239),
+        rgb(212, 20, 20) ,
+        rgb(212, 20, 20)
     ) 10;
 }
 
